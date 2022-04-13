@@ -44,8 +44,8 @@ https://www.cypress.io/
 
 ### Page Object Model
 
-![Page Object Model](doc/PageObjectModelDesignPattern.png)
+![Page Object Model](doc/img/PageObjectModelDesignPattern.png)
 
 ### Screen Play
 
-![](doc/ScreenPlayWorkFlow.png)
+![Screen Play](doc/img/ScreenPlayWorkFlow.png)
