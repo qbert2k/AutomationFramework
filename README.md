@@ -49,3 +49,9 @@ https://www.cypress.io/
 ### Screen Play
 
 ![Screen Play](doc/img/ScreenPlayWorkFlow.png)
+
+## Automation Practice Sites
+
+https://www.testfaceclub.com/ejercicios/
+http://automationpractice.com/index.php
+https://demoqa.com/buttons
